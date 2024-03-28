@@ -6,4 +6,6 @@ Example 1
 
 Example 2
 
+File README modificato in locale
+
 This repository is built step by step in the tutorial.
